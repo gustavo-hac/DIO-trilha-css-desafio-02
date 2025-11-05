@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  object-fit: cover;
+  margin: 0;
+  flex-shrink: 1;
+  font-family: "Roboto", "Arial", sans-serif;
+}
+span{
+  color: #f1f1f1;
+}
+p{
+  color: #f0f0f0;
+}
+.title{
+  color: #f0f0f0;
+}
+.subtitle{
+  color: #AAAAAA;
+}
